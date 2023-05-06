@@ -7,3 +7,5 @@
 <h2>Tecnologias utilizadas</h2>
 <b>-HTML</b>
 <img src="https://github.com/PhelipeNascimento/easy-shopping/blob/master/img/Projeto-Readme.png?raw=true" />
+<b>-CSS</b>
+<img src="https://github.com/PhelipeNascimento/easy-shopping/blob/master/img/styles-css.png?raw=true" />
